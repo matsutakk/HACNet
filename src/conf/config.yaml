@@ -1,0 +1,22 @@
+# general info
+seed: 2022
+device: "cuda:0"
+verbose: True
+
+# experiment info
+dataset: ringnorm #TCGA, relathe, isolet, madelon, ringnorm, 
+n_splits: 10
+batch_size: 256
+val_size: 0.2
+max_iteration: 8000
+max_iteration_retrain: 2000
+
+# Our model info
+actor_type: HACNet
+critic_type: ResNet18
+use_template: False
+name_template: alphabet # if use_template is True
+reg_coef: 10.0
+t_start: 10
+t_end: 0.66
+image_scale: 100

@@ -1,0 +1,10 @@
+- TCGA
+    - https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq
+- ISOLET
+    - https://archive.ics.uci.edu/ml/datasets/isolet,
+- MADELON
+    - http://archive.ics.uci.edu/ml/datasets/madelon
+- RELATHE
+    - https://jundongl.github.io/scikit-feature/datasets.html.
+- Ringnorm-DELVE
+    - https://www.cs.toronto.edu/~delve/data/ringnorm/desc.html
