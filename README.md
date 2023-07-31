@@ -2,6 +2,8 @@
 
 This repository contains the code for the following paper:
 
+Preprint:https://www.researchgate.net/publication/364456841_HACNet_End-to-end_learning_of_table-to-image_converter_and_convolutional_neural_network
+
 Please cite our paper if you use this code for your research.
 
 ## Directory
