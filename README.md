@@ -1,8 +1,7 @@
 # HACNet: End-to-end learning of tabular-to-image converter and convolutional neural network
 
 This repository contains the code for the following paper:
-
-Preprint:https://www.researchgate.net/publication/364456841_HACNet_End-to-end_learning_of_table-to-image_converter_and_convolutional_neural_network
+https://doi.org/10.1016/j.knosys.2023.111293
 
 Please cite our paper if you use this code for your research.
 
